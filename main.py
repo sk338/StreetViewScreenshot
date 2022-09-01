@@ -33,9 +33,10 @@ def streetViewScreenshot(mergedAddress, address):
     # print(X, Y)
     # driver.find_element(By.CSS_SELECTOR, '#QA0Szd button.aoRNLd').click()
 
+    mapYear = ''
     for span in driver.find_elements(By.TAG_NAME, 'span'):
         if 'Map data ©' in span.text:
-            print(f"Map data year: {span.text.replace('Map data ©','').strip()}")
+            # print(f"Map data year: {span.text.replace('Map data ©','').strip()}")
             mapYear = span.text.replace('Map data ©','').strip()
             break
 
@@ -51,14 +52,14 @@ def streetViewScreenshot(mergedAddress, address):
     imageType = 'Picture'
     for span in driver.find_elements(By.TAG_NAME, 'span'):
         if 'Map data ©' in span.text:
-            print("Map data")
+            # print("Map data")
             imageType = 'Map data'
             break
 
     imageCaptureDate = ''
     for span in driver.find_elements(By.TAG_NAME, 'span'):
         if 'Image capture:' in span.text:
-            print(f"Image capture date: {span.text.replace('Image capture: ','').strip()}")
+            # print(f"Image capture date: {span.text.replace('Image capture: ','').strip()}")
             imageCaptureDate = span.text.replace('Image capture: ','').strip()
             break
 
@@ -78,6 +79,7 @@ def streetViewScreenshot(mergedAddress, address):
         finalstr = finalstr[:-1]
         # print(finalstr)
         Output_Handle.write(f'{finalstr}\n')
+        Output_Handle.flush()
 
     except Exception as e:
         print(str(e))

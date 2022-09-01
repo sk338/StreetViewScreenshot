@@ -1,21 +1,182 @@
-ADDRESS,City,State,ZIPCODE
-0 W Point Ave,Abington,PA,19001
-0 Gay Ave,Abington,PA,19001
-0 Brook Rd,Abington,PA,19001
-0 Brook Rd,Abington,PA,19001
-0 Brook Rd,Abington,PA,19001
-2241 Albright Ave,Abington,PA,19001
-1160 Fitzwatertown Rd,Abington,PA,19001
-0 Woodland Rd,Abington,PA,19001
-0 Webster Ave,Abington,PA,19001
-0 Rydal E,Abington,PA,19001
-0 Rubicam Ave,Abington,PA,19001
-0 Patane Ave,Abington,PA,19001
-943 Old York Rd,Abington,PA,19001
-0 Old Welsh Rd,Abington,PA,19001
-2417 Norwood Ave,Abington,PA,19001
-0 Huntingdon Pike,Abington,PA,19001
-0 Galloway Ave,Abington,PA,19001
-0 Eckard Ave,Abington,PA,19001
-0 Eckard Ave,Abington,PA,19001
-0 Brookdale Ave,Abington,PA,19001
+Address,City,State,Zip Code 
+1680 Huntingdon Pike Apt Condo 221,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 138,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 119,Huntingdon Valley,PA,19006
+1338 Huntingdon Pike,Huntingdon Valley,PA,19006
+1046 Huntingdon Pike,Huntingdon Valley,PA,19006
+573 Hoyt Rd,Huntingdon Valley,PA,19006
+1064 Irvin Rd,Huntingdon Valley,PA,19006
+1028 Irvin Rd,Huntingdon Valley,PA,19006
+1022 Irvin Rd,Huntingdon Valley,PA,19006
+1010 Irvin Rd,Huntingdon Valley,PA,19006
+1000 Irvin Rd,Huntingdon Valley,PA,19006
+972 Irvin Rd,Huntingdon Valley,PA,19006
+966 Irvin Rd,Huntingdon Valley,PA,19006
+956 Irvin Rd,Huntingdon Valley,PA,19006
+952 Irvin Rd,Huntingdon Valley,PA,19006
+948 Irvin Rd,Huntingdon Valley,PA,19006
+942 Irvin Rd,Huntingdon Valley,PA,19006
+938 Irvin Rd,Huntingdon Valley,PA,19006
+934 Irvin Rd,Huntingdon Valley,PA,19006
+928 Irvin Rd,Huntingdon Valley,PA,19006
+1033 Irvin Rd,Huntingdon Valley,PA,19006
+1027 Irvin Rd,Huntingdon Valley,PA,19006
+1021 Irvin Rd,Huntingdon Valley,PA,19006
+1015 Irvin Rd,Huntingdon Valley,PA,19006
+1009 Irvin Rd,Huntingdon Valley,PA,19006
+963 Irvin Rd,Huntingdon Valley,PA,19006
+957 Irvin Rd,Huntingdon Valley,PA,19006
+953 Irvin Rd,Huntingdon Valley,PA,19006
+949 Irvin Rd,Huntingdon Valley,PA,19006
+943 Irvin Rd,Huntingdon Valley,PA,19006
+935 Irvin Rd,Huntingdon Valley,PA,19006
+931 Irvin Rd,Huntingdon Valley,PA,19006
+927 Irvin Rd,Huntingdon Valley,PA,19006
+923 Irvin Rd,Huntingdon Valley,PA,19006
+1425 Huntingdon Rd,Huntingdon Valley,PA,19006
+1510 Hilltop Ter,Huntingdon Valley,PA,19006
+1471 Lorimer Ave,Huntingdon Valley,PA,19006
+1401 Lorimer Ave,Huntingdon Valley,PA,19006
+1311 Huntingdon Pike,Huntingdon Valley,PA,19006
+1239 Huntingdon Pike,Huntingdon Valley,PA,19006
+1233 Huntingdon Pike,Huntingdon Valley,PA,19006
+1227 Huntingdon Pike,Huntingdon Valley,PA,19006
+1215 Huntingdon Pike,Huntingdon Valley,PA,19006
+1201 Huntingdon Pike,Huntingdon Valley,PA,19006
+1177 Huntingdon Pike,Huntingdon Valley,PA,19006
+1171 Huntingdon Pike,Huntingdon Valley,PA,19006
+1151 Huntingdon Pike,Huntingdon Valley,PA,19006
+1125 Huntingdon Pike,Huntingdon Valley,PA,19006
+1115 Huntingdon Pike,Huntingdon Valley,PA,19006
+1079 Huntingdon Pike,Huntingdon Valley,PA,19006
+1071 Huntingdon Pike,Huntingdon Valley,PA,19006
+1067 Huntingdon Pike,Huntingdon Valley,PA,19006
+1055 Huntingdon Pike,Huntingdon Valley,PA,19006
+1051 Huntingdon Pike,Huntingdon Valley,PA,19006
+1025 Huntingdon Pike,Huntingdon Valley,PA,19006
+1017 Huntingdon Pike,Huntingdon Valley,PA,19006
+1011 Huntingdon Pike,Huntingdon Valley,PA,19006
+1005 Huntingdon Pike,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 323,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 324,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 325,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 326,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 327,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 312,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 317,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 318,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 319,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 320,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 309,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 303,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 301,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 239,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 241,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 242,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 231,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 232,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 233,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 234,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 235,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 237,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 227,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 228,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 229,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 220,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 222,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 212,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 215,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 216,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 205,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt 206,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt 207,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 208,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 209,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 211,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 139,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 140,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 143,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 131,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 132,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 133,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 134,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 135,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 136,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 137,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 126,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 127,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 128,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 129,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 130,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 118,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 121,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 123,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 124,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 114,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 111,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 109,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 117,Huntingdon Valley,PA,19006
+1680 Huntingdon Pike Apt Condo 104,Huntingdon Valley,PA,19006
+1526 Huntingdon Pike,Huntingdon Valley,PA,19006
+1518 Huntingdon Pike,Huntingdon Valley,PA,19006
+1462 Huntingdon Pike,Huntingdon Valley,PA,19006
+1420 Huntingdon Pike,Huntingdon Valley,PA,19006
+1414 Huntingdon Pike,Huntingdon Valley,PA,19006
+1330 Huntingdon Pike,Huntingdon Valley,PA,19006
+1322 Huntingdon Pike,Huntingdon Valley,PA,19006
+1314 Huntingdon Pike,Huntingdon Valley,PA,19006
+1300 Huntingdon Pike,Huntingdon Valley,PA,19006
+1248 Huntingdon Pike,Huntingdon Valley,PA,19006
+1240 Huntingdon Pike,Huntingdon Valley,PA,19006
+1228 Huntingdon Pike,Huntingdon Valley,PA,19006
+1082 Huntingdon Pike,Huntingdon Valley,PA,19006
+1068 Huntingdon Pike,Huntingdon Valley,PA,19006
+1054 Huntingdon Pike,Huntingdon Valley,PA,19006
+1032 Huntingdon Pike,Huntingdon Valley,PA,19006
+1018 Huntingdon Pike,Huntingdon Valley,PA,19006
+992 Huntingdon Pike,Huntingdon Valley,PA,19006
+978 Huntingdon Pike,Huntingdon Valley,PA,19006
+536 Hoyt Rd,Huntingdon Valley,PA,19006
+552 Hoyt Rd,Huntingdon Valley,PA,19006
+642 Hoyt Rd,Huntingdon Valley,PA,19006
+509 Hoyt Rd,Huntingdon Valley,PA,19006
+517 Hoyt Rd,Huntingdon Valley,PA,19006
+537 Hoyt Rd,Huntingdon Valley,PA,19006
+545 Hoyt Rd,Huntingdon Valley,PA,19006
+553 Hoyt Rd,Huntingdon Valley,PA,19006
+567 Hoyt Rd,Huntingdon Valley,PA,19006
+615 Hoyt Rd,Huntingdon Valley,PA,19006
+651 Hoyt Rd,Huntingdon Valley,PA,19006
+457 Hickory Rd,Huntingdon Valley,PA,19006
+1974 Heritage Rd,Huntingdon Valley,PA,19006
+1042 Henrietta Ave,Huntingdon Valley,PA,19006
+1055 Henrietta Ave,Huntingdon Valley,PA,19006
+935 Henrietta Ave,Huntingdon Valley,PA,19006
+929 Henrietta Ave,Huntingdon Valley,PA,19006
+923 Henrietta Ave,Huntingdon Valley,PA,19006
+1406 Holcomb Rd,Huntingdon Valley,PA,19006
+1422 Holcomb Rd,Huntingdon Valley,PA,19006
+1444 Holcomb Rd,Huntingdon Valley,PA,19006
+1464 Holcomb Rd,Huntingdon Valley,PA,19006
+1476 Holcomb Rd,Huntingdon Valley,PA,19006
+1411 Holcomb Rd,Huntingdon Valley,PA,19006
+1441 Holcomb Rd,Huntingdon Valley,PA,19006
+1457 Holcomb Rd,Huntingdon Valley,PA,19006
+1473 Holcomb Rd,Huntingdon Valley,PA,19006
+1520 Hilltop Ter,Huntingdon Valley,PA,19006
+1534 Hilltop Ter,Huntingdon Valley,PA,19006
+1551 Hilltop Ter,Huntingdon Valley,PA,19006
+1519 Hilltop Ter,Huntingdon Valley,PA,19006
+1501 Hilltop Ter,Huntingdon Valley,PA,19006
+316 Heathcliffe Rd,Huntingdon Valley,PA,19006
+301 Heathcliffe Rd,Huntingdon Valley,PA,19006
+657 Hidden Pond Ln,Huntingdon Valley,PA,19006
+661 Hidden Pond Ln,Huntingdon Valley,PA,19006
+665 Hidden Pond Ln,Huntingdon Valley,PA,19006
+652 Hidden Pond Ln,Huntingdon Valley,PA,19006
+660 Hidden Pond Ln,Huntingdon Valley,PA,19006
+662 Hidden Pond Ln,Huntingdon Valley,PA,19006
+664 Hidden Pond Ln,Huntingdon Valley,PA,19006
+441 Hickory Rd,Huntingdon Valley,PA,19006
+462 Hickory Rd,Huntingdon Valley,PA,19006
+8454 Clodian Ct,Glenside,PA,19038
